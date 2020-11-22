@@ -1,15 +1,18 @@
 ---
-title: "Paper Title Number 1"
+title: "The Conduction Mechanism Explanation Under Co-existence of Cu Atom and Oxygen Vacancy in Zinc Oxide Based RRAM by Markov Random Field Simulatiom"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+excerpt: 'Submitted to Applied Physics Letters, Under Revision'
+citation: 'Junjie Hu, Kuan Yang* (co-first), Junhao Chen et. al'
+
 ---
-This paper is about the number 1. The number 2 is left for future work.
+Submitted to Applied Physics Letters, Under Revision
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+In this work, I shoulder the simulation part, in which the current density, copper atoms and oxygen vacancy distribution schematically illustrate the dynamic formation and rupture process of conductive filament by Markov Random Field model. The conduction mechanism is concluded as that the electrons would hop among oxygen vacancies for low voltage but migrate through the Cu CF after the formation.
+
+---
+
+Here's a sample of what we've done in this work, the microscopic illustration of the configuration of ions and current density.
+
+!(/images/paper_1.png)
