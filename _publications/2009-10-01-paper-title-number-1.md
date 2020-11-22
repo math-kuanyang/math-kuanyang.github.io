@@ -15,4 +15,6 @@ In this work, I shoulder the simulation part, in which the current density, copp
 
 Here's a sample of what we've done in this work, the microscopic illustration of the configuration of ions and current density.
 
-!(/images/paper_1.png)
+Full-text would be available when published online.
+
+![Pic for Illustration](/images/paper_1.png)
