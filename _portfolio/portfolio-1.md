@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Introductory work on Eigenvalue and Eigenfunction"
+excerpt: "Here are calculated examples of eigenvalue and eigenfunction on different domains of Laplacian, this work is with Prof. Alexander Strohmaier<br/><img src='/images/eigen1.jpg'><br/><img src='/images/eigen2.jpg'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+With Prof. Alexander Strohmaier, I am undergoing some basic work on numerical experiments with the eigenvalue and eigenfunction of operators. I may further expand these work to more PDEs and SDEs for practical usage.
