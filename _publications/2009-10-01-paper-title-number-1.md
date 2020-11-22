@@ -1,9 +1,10 @@
 ---
 title: "The Conduction Mechanism Explanation Under Co-existence of Cu Atom and Oxygen Vacancy in Zinc Oxide Based RRAM by Markov Random Field Simulatiom"
 collection: publications
+date: 2020-11-13
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'Submitted to Applied Physics Letters, Under Revision'
-citation: 'Junjie Hu, Kuan Yang* (co-first), Junhao Chen et. al'
+citation: 'Junjie Hu, Kuan Yang* (co-first), Junhao Chen et al'
 
 ---
 Submitted to Applied Physics Letters, Under Revision
