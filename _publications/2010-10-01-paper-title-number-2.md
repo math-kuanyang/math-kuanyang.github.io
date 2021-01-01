@@ -1,7 +1,7 @@
 ---
 title: "Anatomy of Resistive Switching Behavior in Titanium Oxide Based RRAM Device"
 collection: publications
-data: 2020-11-14
+date: 2020-11-14
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'Submitted to IEEE Electron Device Letters'
 citation: 'Kuan Yang, Liping Fu, Junhao Chen et al'
