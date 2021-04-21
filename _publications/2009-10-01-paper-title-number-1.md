@@ -3,7 +3,7 @@ title: "The Conduction Mechanism Explanation Under Co-existence of Cu Atom and O
 collection: publications
 date: 2020-11-13
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'Submitted to Applied Physics Letters, Under Revision'
+excerpt: 'Submitted to Journal of Applied Physics D: Applied Physics, Under Revision'
 citation: 'Junjie Hu, Kuan Yang* (co-first), Junhao Chen et al'
 
 ---
