@@ -9,11 +9,11 @@ redirect_from:
 ---
 
 ### Biography
-I am Kuan, Graduate in Mathematics and Computational Finance in University of Oxford. I have received a Bachelor’s degree with Honors in Cuiying Honors College, Lanzhou University. I am also a Chun-Tsung Scholar.
+I am Kuan, Postgraduate Student in Mathematics and Computational Finance in University of Oxford. I have received a Bachelor’s degree with Honors in Cuiying Honors College, Lanzhou University. I am also a Chun-Tsung Scholar.
 
-My current attempt involves mathematical modelling for practical and theoretical issues. In the area of Physics, I have implemented a stochastic model to simulate the migration of particles within Resistive Random - Access Memory, which contributes to the formation of conductive filament and the resistive switching behaviour. For computational finance, I am focused on stochastic based methods for the prediction and analysis. For example, in my BSc thesis, I exploited the rough path method in predicting evolution and tendency to predict market behaviour. This work has also been extended and collaborated with TaiLong Bank into Trading strategy for bonds. I have also applied mathematics strategies in evidence-based research and education.
+My current attempt involves mathematical modelling for cross-disciplinary purposes. In the area of Physics, I have implemented a stochastic model to simulate the migration of particles within Resistive Random - Access Memory, based on which we analysed the mechanism of the resistive switching behaviour. For computational finance, I am considering on stochastic based methods for the prediction and analysis of random behavior in stock market. This work has also been extended and collaborated with TaiLong Bank into Trading strategy for bonds. I have included these trails in project section. Another project is the spectral theory project, which equipped me with a powerful tool in computing dynamical systems. More importantly, it transforms the way I think about random systems. I have also applied mathematics strategies in evidence-based research and education.
 
-My undergraduate education lays solid foundation for me in tackling issues mathematically. Among them, I am the most grateful to Prof. Alexander Strohmaier in University of Leeds is another story. He has tutored me on the project on spectral theory, scattering matrix and differential equations. Not only does this project equip me with skills in numerical analysis, computational methods, and some very handy tools as FEM, it but also brings me to a higher level in considering dynamic systems. These methods cast me with intuition, inspiration and full enthusiasm.
+My undergraduate education lays solid foundation and equip me with mathematical logic. I am grateful for many professors that have ever supported me. They teach me knowledge but I get full enthusiasm. 
 
 
 
