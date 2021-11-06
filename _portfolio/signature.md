@@ -25,8 +25,8 @@ The ability to predict of signature and its accuracy have been widely discussed 
 #### Extensibility
 By Extensibility, we mean how this method would work when we need to reproduce the predictions based on the predicted set. For example, we are trained on 2020-01-01 to 2020-12-30, and make predictions from 2021-01-01 to 2021-03-31, then, regenerate a prediction based on the set 2020-03-31 to 2021-03-31, and realized an 'extended' prediction on 2021-04-01 to 2021-06-30.
 
-<img src='/images/expanded_linear_regression.png'>*This is the price predicted and extended based on linear regression model, we could witness the prediction is acceptable but the regenerated ones are totally incorrect*
-<img src='/images/expansion_sig(1).png'> *This is the regenerated set from signature method. It captures almost all the dynamics although there is a gap between actual prices.*
+<img src='/images/expand_linear_regression.png'>*This is the price predicted and extended based on linear regression model, we could witness the prediction is acceptable but the regenerated ones are totally incorrect*
+<img src='/images/expansion_sig (1).png'> *This is the regenerated set from signature method. It captures almost all the dynamics although there is a gap between actual prices.*
 
 We could witness the prediction of signature is sightly impacted by the re-generating process. In this section and the following sections, we would find that the actual value of price couldn't be fully captured by signature method, but it successfully capture the dynamics. Be aware, for stocks, we just need to know the dynamics and that's enough to make profits.
 
