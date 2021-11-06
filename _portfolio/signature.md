@@ -16,8 +16,7 @@ In this and the following section, the signature is computed by the esig package
 
 A direct question is that could signature really tell the difference between different stocks? If it could recognize the unique feature of the stock, it should be able to classify different stocks. Hence we compute and plot the second order signatures of two different stocks. We could see different shape in the two clusters.
 
-<img src='/images/cluster.png'>
-*Two stocks are presented and clustered by signature.*
+<img src='/images/cluster.png'>*Two stocks are presented and clustered by signature.*
 
 ### Signature method in Predicting the Stock
 
