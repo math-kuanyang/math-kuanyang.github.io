@@ -11,9 +11,9 @@ redirect_from:
 ### Biography
 I am Kuan, Postgraduate Student in Mathematics and Computational Finance in University of Oxford. I have received a Bachelor’s degree with Honors in Mathematics from Cuiying Honors College, Lanzhou University.
 
-My current attempt is mathematical modelling of random and dynamic systems based on stochastic and PDE methods. 
-With stochastic methods, I have simulated the [migration of particles within Resistive Random - Access Memory](/publications/), based on which we revealed the mechanism of the resistive switching behaviour in selected devices. For [computational finance](/portfolio/signature/), I am working on the prediction and analysis of random behavior in stock market by stochastic analysis (such as signature method and statistical learning). This has been supported and collaborated with TaiLong Bank for developping trading strategy for bonds. 
-The [spectral theory project](portfolio/portfolio-1/) is an experience in the area of PDE and dynamical systems. It cast me a straightforward angle to understand dynamics and systems by characteristics such as eigenvalues. It is also a powerful tool to formulate and compute complicated systems with irregular boundary and conditions.
+My current attempt is mathematical modelling for dynamical systems based on stochastic and PDE methods. 
+With stochastic methods, I have worked on theoretical part of device physics. I simulated the [migration of particles based on drift-diffusion models](/publications/), based on which we revealed the mechanism of the resistive switching behaviour in selected devices. For [computational finance](/portfolio/signature/), I am working on prediction and analysis of random behavior in stock market through stochastic methods, such as signature method and statistical learning. This has been supported and collaborated with TaiLong Bank for developping trading strategy for bonds. 
+The [spectral theory project](portfolio/portfolio-1/) is an experience in the area of PDE and dynamical systems. It casts me a straightforward angle to understand dynamics and systems by characteristics such as eigenvalues. It is also a powerful tool to formulate and compute complicated systems with irregular boundary and conditions.
 
 My undergraduate education supports me with solid foundation and equips me with clear mathematical logic. I am grateful to many professors that have ever supported me. Not only knowledge, but they give me enthusiasm to explore mathematically. 
 
@@ -34,6 +34,7 @@ My undergraduate education supports me with solid foundation and equips me with 
 
 ### [Conference Presentations](/talks/)
 
+### [Projects](/projects/)
 
 
 
