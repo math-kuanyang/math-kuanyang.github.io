@@ -6,4 +6,4 @@ date: 2021-12-01
 excerpt: 'Materials Today Advance'
 citation: 'Liping FU, Kuan YANG, Xiaoping Gao et al'
 ---
-As second author, I am responsible for all the modelling and simulation work. [Archieve of full text](./files/MTADV-D-21-00123_R1.pdf)
+As second author, I am responsible for all the modelling and simulation work. [Archieve of full text](/files/MTADV-D-21-00123_R1.pdf)
