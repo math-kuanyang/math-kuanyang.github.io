@@ -31,7 +31,7 @@ My undergraduate education supports me with solid foundation and equips me with 
 5. China-Top Notch Undergraduate Training Program - Study Abroad Scholarship, Lanzhou University (Value: CNY 120,000 = GBP 15,000)
 
 ### [Publications](/publications/)
-1. Anatomy of high-uniform unidirectional volatile switching behavior in SiO2/TiO2-based selection device, Materials Today Advances, 100197 (2022), L. Fu, K. Yang, X. Gao (Responsible for modelling and simulation)
+1. [Anatomy of high-uniform unidirectional volatile switching behavior in SiO2/TiO2-based selection device](https://authors.elsevier.com/sd/article/S2590049821000679), Materials Today Advances, 100197 (2022), L. Fu, K. Yang, X. Gao et al (Responsible for modelling and simulation)
 
 ### [Conference Presentations](/talks/)
 
