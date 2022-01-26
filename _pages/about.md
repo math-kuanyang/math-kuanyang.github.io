@@ -37,6 +37,7 @@ My undergraduate education supports me with solid foundation and equips me with 
 ### [Conference Presentations](/talks/)
 
 ### [Projects](/projects/)
+Please visit the Project page. Currently, I would like to highlight a very interesting [tick data analysis](/portfolio/tickdata/) that could be used in algorithmic trading.
 
 
 
