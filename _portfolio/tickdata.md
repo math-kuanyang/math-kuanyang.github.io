@@ -8,7 +8,7 @@ collection: portfolio
 In this project, I implemented C++ method to analyse the tick data for 100 Scandinavian blue chip stocks. I considered statistics of tick and trades in terms of mean, median and maximum. As advised, I also considered the round number effect. Some sanity check is conducted as well, by for example, checking the scale of the output. Considering the needs from industry, my top priority is efficiency in processing data and the reliability of measurement, then comes the precision. The final version of the code only cost less than 100MB and would finish within seconds. Finally, for the code, we heavily used containers of map in this implementation.
 
 # Codes
-Codes are available on my repo at: https://github.com/math-kuanyang/TickData
+Codes are available on [my repo](https://github.com/math-kuanyang/TickData)
 
 # Pre-Start Check & Analysis
 
