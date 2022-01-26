@@ -3,6 +3,10 @@ title: "Analysis of Tick Data for High Frequency Trading"
 excerpt: "This is an interesting test from Itarle. Here is my attempt, where we are concerned about the statistics, and round effect. In this trail, I compared the difference of mean and median, and also created measurement for different purposes. The work is based on C++"
 collection: portfolio
 ---
+# Abstract
+
+In this project, I implemented C++ method to analyse the tick data for 100 Scandinavian blue chip stocks. I considered statistics of tick and trades in terms of mean, median and maximum. As advised, I also considered the round number effect. Some sanity check is conducted as well, by for example, checking the scale of the output. Considering the needs from industry, my top priority is efficiency in processing data and the reliability of measurement, then comes the precision. The final version of the code only cost less than 100MB and would finish within seconds. Finally, for the code, we heavily used containers of map in this implementation.
+
 # Pre-Start Check & Analysis
 
 Considering the size and the specific requirement of the data, we first
