@@ -32,7 +32,7 @@ My undergraduate education supports me with solid foundation and equips me with 
 
 ### [Publications](/publications/)
 1. [Anatomy of high-uniform unidirectional volatile switching behavior in SiO2/TiO2-based selection device](https://authors.elsevier.com/sd/article/S2590049821000679), Materials Today Advances, 100197 (2022), L. Fu, K. Yang, X. Gao et al (Responsible for modelling and simulation)
-2. Anatomy of Resistive Switching Behavior in Titanium Oxide Based RRAM Device, Materials Science in Semiconductor Processing, 106492 (2022), K. Yang, L. Fu, J. Chen et al (Deriving models and numerical implementations)
+2. [Anatomy of Resistive Switching Behavior in Titanium Oxide Based RRAM Device](files/matsci106492.pdf), Materials Science in Semiconductor Processing, 106492 (2022), K. Yang, L. Fu, J. Chen et al (Deriving models and numerical implementations)
 
 ### [Conference Presentations](/talks/)
 
