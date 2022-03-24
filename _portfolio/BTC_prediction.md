@@ -1,6 +1,6 @@
 ---
 title: "A Parsimonious Stochastic Simulation for LOB Dynamics"
-excerpt: "We are committed to draw predictions of the midprice of BTC based on half-day data. There are many statistical methods for features engineering and draw predictions based on the extracted factors, while, it performs poorly for longer period prediction. In this project, we put forward both basic statistical methods and stochastic methods, and make comparison between them. Our stochastic approach is much more robust for longer period prediction and is simple to implement."
+excerpt: "We are committed to draw predictions of the midprice of BTC based on half-day data. There are many statistical methods for features engineering and draw predictions based on the extracted factors, while, it performs poorly for longer period prediction. In this project, we put forward both basic statistical methods and stochastic methods, and make comparison between them. Our stochastic approach based on Cox Process is much more robust for longer period prediction and is simple to implement."
 collection: portfolio
 ---
 
