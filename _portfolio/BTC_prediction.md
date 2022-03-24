@@ -1,6 +1,8 @@
+---
 title: "A Parsimonious Stochastic Simulation for LOB Dynamics"
 excerpt: "We are committed to draw predictions of the midprice of BTC based on half-day data. There are many statistical methods for features engineering and draw predictions based on the extracted factors, while, it performs poorly for longer period prediction. In this project, we put forward both basic statistical methods and stochastic methods, and make comparison between them. Our stochastic approach is much more robust for longer period prediction and is simple to implement."
 collection: portfolio
+---
 
 ### The Problem
 
@@ -21,7 +23,7 @@ We adjust the LOB:
 
 -   Group Bid Ask / Trade into different Classes
 
-![Reconstructed LOB](LOB.png){#fig:LOB}
+![Reconstructed LOB](/images/LOB.png){#fig:LOB}
 
 ### Statistical Approach - Bid-Ask Pressure
 
@@ -32,17 +34,17 @@ buy and sell:
 
 -   $F_2 = a1/b1$ (The ratio between best ask and best bid)
 
-![0.1s window](1-1.png){#fig:a width="\\textwidth"}
+![0.1s window](/images/1-1.png){#fig:a width="\\textwidth"}
 
-![1s window](1-2.png){#fig:b width="\\textwidth"}
+![1s window](/images/1-2.png){#fig:b width="\\textwidth"}
 
-![10s window](1-3.png){#fig:c width="\\textwidth"}
+![10s window](/images/1-3.png){#fig:c width="\\textwidth"}
 
-![0.1s window](2-1.png){#fig:a width="\\textwidth"}
+![0.1s window](/images/2-1.png){#fig:a width="\\textwidth"}
 
-![1s window](2-2.png){#fig:b width="\\textwidth"}
+![1s window](/images/2-2.png){#fig:b width="\\textwidth"}
 
-![10s window](2-3.png){#fig:c width="\\textwidth"}
+![10s window](/images/2-3.png){#fig:c width="\\textwidth"}
 
 Both Factors have good approximation for approximate window.
 
@@ -53,11 +55,11 @@ and Ask.
 
 -   $F_3$ = a2 - b2
 
-![0.1s window](3-1.png){#fig:a width="\\textwidth"}
+![0.1s window](/images/3-1.png){#fig:a width="\\textwidth"}
 
-![1s window](3-2.png){#fig:b width="\\textwidth"}
+![1s window](/images/3-2.png){#fig:b width="\\textwidth"}
 
-![10s window](3-3.png){#fig:c width="\\textwidth"}
+![10s window](/images/3-3.png){#fig:c width="\\textwidth"}
 
 ### Statistical Approach - Market Situation
 
@@ -65,11 +67,11 @@ How many orders remain is also a good indicator for the market dynamics.
 
 -   $F_4 = \Sigma a_i - \Sigma b_i$
 
-![0.1s window](4-1.png){#fig:a width="\\textwidth"}
+![0.1s window](/images/4-1.png){#fig:a width="\\textwidth"}
 
-![1s window](4-2.png){#fig:b width="\\textwidth"}
+![1s window](/images/4-2.png){#fig:b width="\\textwidth"}
 
-![10s window](4-3.png){#fig:c width="\\textwidth"}
+![10s window](/images/4-3.png){#fig:c width="\\textwidth"}
 
 ### Long / Short Memory
 
@@ -77,9 +79,9 @@ A question is whether or not the price would be affected by the
 historical event that has happened long time ago? We considered the
 moving average of bid and ask.
 
-![0.1s window](5-1.png){#fig:a width="\\textwidth"}
+![0.1s window](/images/5-1.png){#fig:a width="\\textwidth"}
 
-![0.1s window](5-2.png){#fig:b width="\\textwidth"}
+![0.1s window](/images/5-2.png){#fig:b width="\\textwidth"}
 
 ### Probabilistic Approach - How many orders arrived in unit time?
 
@@ -90,9 +92,9 @@ The Mid Price is the average of best bid and best ask.
 -   We have to consider the randomness of the $\lambda$ and the discrete
     property of Poisson Distribution - Cox Process
 
-![Volume of $a1$](a1.png){#fig:a width="\\textwidth"}
+![Volume of $a1$](/images/a1.png){#fig:a width="\\textwidth"}
 
-![Volume of $b1$](b1.png){#fig:b width="\\textwidth"}
+![Volume of $b1$](/images/b1.png){#fig:b width="\\textwidth"}
 
 ### Relation between Mid-Price and LOs
 
@@ -114,10 +116,10 @@ $$d \lambda_t = \mu_t dt + \sigma_t dW_t$$
 
 ### Numerical Results
 
-![100 trajectories of simulated path](trajectories.png){#fig:a
+![100 trajectories of simulated path](/images/trajectories.png){#fig:a
 width="\\textwidth"}
 
-![Return by Probabilistic Method](results.png){#fig:b
+![Return by Probabilistic Method](/images/results.png){#fig:b
 width="\\textwidth"}
 
 ### Reflections on Probabilistic Model
