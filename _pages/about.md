@@ -37,7 +37,7 @@ My undergraduate education supports me with solid foundation and equips me with 
 ### [Conference Presentations](/talks/)
 
 ### [Projects](/projects/)
-Please visit the Project page. Currently, I would like to highlight a very interesting [tick data analysis](/portfolio/tickdata/) that could be used in algorithmic trading.
+Please visit the Project page. Currently, I would like to highlight a very interesting [stochastic modelling for cryptocurrency](/portfolio/BTC_prediction/). In addition to machine learning methods, we are hanging back to the fundamentals for price dynamics.
 
 
 
