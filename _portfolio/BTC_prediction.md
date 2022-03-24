@@ -23,7 +23,7 @@ We adjust the LOB:
 
 -   Group Bid Ask / Trade into different Classes
 
-![Reconstructed LOB](/images/LOB.png){#fig:LOB}
+![Reconstructed LOB](/images/LOB_figs/LOB.png){#fig:LOB}
 
 ### Statistical Approach - Bid-Ask Pressure
 
@@ -34,17 +34,17 @@ buy and sell:
 
 -   $F_2 = a1/b1$ (The ratio between best ask and best bid)
 
-![0.1s window](/images/1-1.png){#fig:a width="\\textwidth"}
+![0.1s window](/images/LOB_figs/1-1.png){#fig:a width="\\textwidth"}
 
-![1s window](/images/1-2.png){#fig:b width="\\textwidth"}
+![1s window](/images/LOB_figs/1-2.png){#fig:b width="\\textwidth"}
 
-![10s window](/images/1-3.png){#fig:c width="\\textwidth"}
+![10s window](/images/LOB_figs/1-3.png){#fig:c width="\\textwidth"}
 
-![0.1s window](/images/2-1.png){#fig:a width="\\textwidth"}
+![0.1s window](/images/LOB_figs/2-1.png){#fig:a width="\\textwidth"}
 
-![1s window](/images/2-2.png){#fig:b width="\\textwidth"}
+![1s window](/images/LOB_figs/2-2.png){#fig:b width="\\textwidth"}
 
-![10s window](/images/2-3.png){#fig:c width="\\textwidth"}
+![10s window](/images/LOB_figs/2-3.png){#fig:c width="\\textwidth"}
 
 Both Factors have good approximation for approximate window.
 
@@ -55,11 +55,11 @@ and Ask.
 
 -   $F_3$ = a2 - b2
 
-![0.1s window](/images/3-1.png){#fig:a width="\\textwidth"}
+![0.1s window](/images/LOB_figs/3-1.png){#fig:a width="\\textwidth"}
 
-![1s window](/images/3-2.png){#fig:b width="\\textwidth"}
+![1s window](/images/LOB_figs/3-2.png){#fig:b width="\\textwidth"}
 
-![10s window](/images/3-3.png){#fig:c width="\\textwidth"}
+![10s window](/images/LOB_figs/3-3.png){#fig:c width="\\textwidth"}
 
 ### Statistical Approach - Market Situation
 
@@ -67,11 +67,11 @@ How many orders remain is also a good indicator for the market dynamics.
 
 -   $F_4 = \Sigma a_i - \Sigma b_i$
 
-![0.1s window](/images/4-1.png){#fig:a width="\\textwidth"}
+![0.1s window](/images/LOB_figs/4-1.png){#fig:a width="\\textwidth"}
 
-![1s window](/images/4-2.png){#fig:b width="\\textwidth"}
+![1s window](/images/LOB_figs/4-2.png){#fig:b width="\\textwidth"}
 
-![10s window](/images/4-3.png){#fig:c width="\\textwidth"}
+![10s window](/images/LOB_figs/4-3.png){#fig:c width="\\textwidth"}
 
 ### Long / Short Memory
 
@@ -79,9 +79,9 @@ A question is whether or not the price would be affected by the
 historical event that has happened long time ago? We considered the
 moving average of bid and ask.
 
-![0.1s window](/images/5-1.png){#fig:a width="\\textwidth"}
+![0.1s window](/images/LOB_figs/5-1.png){#fig:a width="\\textwidth"}
 
-![0.1s window](/images/5-2.png){#fig:b width="\\textwidth"}
+![0.1s window](/images/LOB_figs/5-2.png){#fig:b width="\\textwidth"}
 
 ### Probabilistic Approach - How many orders arrived in unit time?
 
@@ -92,9 +92,9 @@ The Mid Price is the average of best bid and best ask.
 -   We have to consider the randomness of the $\lambda$ and the discrete
     property of Poisson Distribution - Cox Process
 
-![Volume of $a1$](/images/a1.png){#fig:a width="\\textwidth"}
+![Volume of $a1$](/images/LOB_figs/a1.png){#fig:a width="\\textwidth"}
 
-![Volume of $b1$](/images/b1.png){#fig:b width="\\textwidth"}
+![Volume of $b1$](/images/LOB_figs/b1.png){#fig:b width="\\textwidth"}
 
 ### Relation between Mid-Price and LOs
 
@@ -116,10 +116,10 @@ $$d \lambda_t = \mu_t dt + \sigma_t dW_t$$
 
 ### Numerical Results
 
-![100 trajectories of simulated path](/images/trajectories.png){#fig:a
+![100 trajectories of simulated path](/images/LOB_figs/trajectories.png){#fig:a
 width="\\textwidth"}
 
-![Return by Probabilistic Method](/images/results.png){#fig:b
+![Return by Probabilistic Method](/images/LOB_figs/results.png){#fig:b
 width="\\textwidth"}
 
 ### Reflections on Probabilistic Model
