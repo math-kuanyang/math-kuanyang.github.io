@@ -330,7 +330,10 @@ Cox Process is obtained by calibrating the volume.
 
 However, the different time frame decrease the precision.
 
-9 Philipp Koenig, Modelling Correlation in Carbon and Energy Markets,
+Reference
+============
+
+Philipp Koenig, Modelling Correlation in Carbon and Energy Markets,
 *Working Paper*
 
 Rene Carmona, Max Fehr, and Juri Hinz Optimal stochastic control and
