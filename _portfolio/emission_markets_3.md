@@ -275,4 +275,4 @@ The model could be better improved and more close to reality if we:
 2. The strategy has to have time gap with the Fuel Switching Process. And we have to be aware it may not fully switch to another fuel, but could be x% for gas and 1-x% for coal (non-linear feature).
 
 # Codes
-Codes are availble to download from my repository.
+Codes are availble to download from ![my repository](https://github.com/math-kuanyang/EU_ETS).
