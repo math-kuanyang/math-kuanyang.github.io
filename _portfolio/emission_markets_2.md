@@ -1,4 +1,11 @@
-Correlation Analysis
+---
+title: "Analysis towards the EU ETS markets and related commodities, Part B - Time Lag, Correlation and Trading Strategy"
+excerpt: "This work goes deeper in the correlation between fuels and the EU ETS price. We discovered time lag behavior, specific correlation between different commodities with the EU ETS price and based on this, we could come up a strategy to trade. We did many adjustments in order to get hold of such correlation."
+collection: portfolio
+---
+
+
+Correlation Analysis and Strategy Insights
 ====================
 
 Fuel Switching Price
@@ -23,9 +30,9 @@ efficient coal based plant would spend more money compared to an
 inefficient natural gas company.
 
 ![Fuel Switching Price and Allowance
-Price](Adjusted_fuel_Price.png){width="6cm"}
+Price](/images/EU_ETS_2/Adjusted_fuel_Price.png){width="6cm"}
 
-![Fuel Switching Price and Allowance Price](FS_Price.png){width="6cm"}
+![Fuel Switching Price and Allowance Price](/images/EU_ETS_2/FS_Price.png){width="6cm"}
 
 Problems of the Correlation
 ---------------------------
@@ -35,7 +42,7 @@ shift of ranging from 30 to 90 to check the correlation between
 commodities and allowance price.
 
 ![Correlation between returns of XA1 and TTD1 with allowance
-price](corr_XA1_TTD1_unadjusted.png){#fig:my_label width="70%"}
+price](/images/EU_ETS_2/corr_XA1_TTD1_unadjusted.png){#fig:my_label width="70%"}
 
 The problem with this figure is:
 
@@ -76,10 +83,10 @@ I did two adjustment:
     the fuels would affect the allowance price (after the two days).
 
 ![Correlation with TTD1, time shift =
-2](corr_XA1_shifted.png){width="6cm"}
+2](/images/EU_ETS_2/corr_XA1_shifted.png){width="6cm"}
 
 ![Correlation with TTD1, time shift =
-2](corr_TTD1_shifted.png){width="6cm"}
+2](/images/EU_ETS_2/corr_TTD1_shifted.png){width="6cm"}
 
 From the correlation with XA1 and TTD1, we could witness our correlation
 are sometimes positively correlated and negatively correlated. Then we
@@ -97,16 +104,16 @@ curious about the magnitude of correlation, so I only present the
 absolute value of correlation for the below.
 
 ![Correlation with XA1, time shift =
-2](FS_Price.png){width="\\textwidth"}
+2](/images/EU_ETS_2/FS_Price.png){width="\\textwidth"}
 
 ![Correlation with XA1, time shift =
-2](TTD1_abs_corr.png){width="\\textwidth"}
+2](/images/EU_ETS_2/TTD1_abs_corr.png){width="\\textwidth"}
 
 ![Correlation with XA1, time shift =
-2](Adjusted_fuel_Price.png){width="\\textwidth"}
+2](/images/EU_ETS_2/Adjusted_fuel_Price.png){width="\\textwidth"}
 
 ![Correlation with XA1, time shift =
-2](XA1_abs_corr.png){width="\\textwidth"}
+2](/images/EU_ETS_2/XA1_abs_corr.png){width="\\textwidth"}
 
 I found the following points that are very interesting:
 
@@ -152,7 +159,7 @@ dramatically but due to the existence of XA1 in the above figure, it is
 seemingly not remarkable.
 
 ![Part of TTD1 price in year 2019 when it is decreasing
-dramatically](part_of_TTD1.png){#fig:my_label width="60%"}
+dramatically](/images/EU_ETS_2/part_of_TTD1.png){#fig:my_label width="60%"}
 
 Relation with the Electricity Price
 -----------------------------------
@@ -186,9 +193,9 @@ above, the correlation
     that of XA1, but they happended in different time - the upward of
     electricity price is due to the approach of winter.
 
-![Commodities Price](electricity-prices-day-a.png){width="\\textwidth"}
+![Commodities Price](/images/EU_ETS_2/electricity-prices-day-a.png){width="\\textwidth"}
 
-![Commodities Price](Adjusted_fuel_Price.png){width="\\textwidth"}
+![Commodities Price](/images/EU_ETS_2/Adjusted_fuel_Price.png){width="\\textwidth"}
 
 Due to the fact that I don't have more access to the electricity price,
 I could only do this coase analysis.
