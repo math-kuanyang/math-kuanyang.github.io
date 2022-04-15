@@ -1,11 +1,8 @@
-Abstract {#abstract .unnumbered}
-========
-
-This report would cover the mechanism of Emission Allowance, based on
-which we would propose correlation analysis of EU ETS with other
-derivatives or commodities in energy markets. We further propose the
-pricing theory of EU ETS to predict the price dynamics. The seasonality
-analysis is undergone as part of price dynamics analysis.
+---
+title: "Analysis towards the EU ETS markets and related commodities, Part A - Mechanism, Statistical Insights and Pricing"
+excerpt: "This report would cover the mechanism of Emission Allowance, based onwhich we would propose correlation analysis of EU ETS with other derivatives or commodities in energy markets. We further propose the pricing theory of EU ETS to predict the price dynamics. The seasonality analysis is undergone as part of price dynamics analysis."
+collection: portfolio
+---
 
 Introduction
 ============
@@ -80,7 +77,7 @@ case in EU continent. It is argued that the price of allowance is also
 correlated with crude oil in some of the regions.
 
 ![The correlation between MODEC1 with Brent Crude
-Oil](corr_crude_oil.png){#fig:oil width="70%"}
+Oil](/images/EU_ETS_1/corr_crude_oil.png){#fig:oil width="70%"}
 
 Data Specification
 ------------------
@@ -90,7 +87,7 @@ back feature, we have to do difference adjust or ratio adjust to avoid
 discontinuities. In this work, we use ratio adjust based on the given
 tickers when it comes to considering the price or PnL computation.
 
-![Ratio Adjusted Price of Commodities](ratio_adjust.png){#fig:my_label
+![Ratio Adjusted Price of Commodities](/images/EU_ETS_1/ratio_adjust.png){#fig:my_label
 width="70%"}
 
 Correlation
@@ -112,9 +109,9 @@ Time Varying Correlation
 After taking the difference, we have the following figure for the
 correlation, with the rolling window of 30 days.
 
-![$\rho(\mathrm{XA1, MODEC1})$](corr_TTD1.png){width="6cm"}
+![$\rho(\mathrm{XA1, MODEC1})$](/images/EU_ETS_1/corr_TTD1.png){width="6cm"}
 
-![$\rho(\mathrm{XA1, MODEC1})$](corr_XA1.png){width="6cm"}
+![$\rho(\mathrm{XA1, MODEC1})$](/images/EU_ETS_1/corr_XA1.png){width="6cm"}
 
 After reading the figure, a direct question is: Why the correlation
 changes all the time?
@@ -144,7 +141,7 @@ impact the strategy $\lambda$. Let consider the following situation:
 Here, we provide the curve of fuel switching price.
 
 ![Fuel Switching Price against the EU ETS
-price](switch_price.png){#fig:fs width="80%"}
+price](/images/EU_ETS_1/switch_price.png){#fig:fs width="80%"}
 
 Let's compare the Fig [\[fs\]](#fs){reference-type="ref" reference="fs"}
 with the correlations. During the year 2018 to 2019, the Fuel Switching
@@ -184,11 +181,11 @@ We group the information by the months, hours and weekdays. The
 following boxplot could generally give us an image of the potential
 existence of seasonality.
 
-![Group by hour](box_plot_month_price.png){width="\\textwidth"}
+![Group by hour](/images/EU_ETS_1/box_plot_month_price.png){width="\\textwidth"}
 
-![Group by hour](box_plot_price_weekday.png){width="\\textwidth"}
+![Group by hour](/images/EU_ETS_1/box_plot_price_weekday.png){width="\\textwidth"}
 
-![Group by hour](box_plot_price_hour.png){width="\\textwidth"}
+![Group by hour](/images/EU_ETS_1/box_plot_price_hour.png){width="\\textwidth"}
 
 ARMA based Attempt
 ------------------
@@ -206,10 +203,10 @@ $$\phi(B) X = \theta(B) Z$$ We look at the **PACF** and **ACF** to guess
 the range of the order of $p, q$.
 
 ![Partial autocorrealtion, cut off at the first few
-order](diff_price_acf.png){width="6cm"}
+order](/images/EU_ETS_1/diff_price_acf.png){width="6cm"}
 
 ![Partial autocorrealtion, cut off at the first few
-order](diff_price_pacf.png){width="6cm"}
+order](/images/EU_ETS_1/diff_price_pacf.png){width="6cm"}
 
 Based on the **ACF, PACF**, we start our search with $p < 5, q < 3$, and
 the best fit ARMA model is given as **ARMA(3,0,1)** with an AIC of
@@ -217,11 +214,11 @@ $-2671.779$ (For the original data, it would be ARMA(3,1,1)). Adding the
 volume as the exog regressor, we would achieve the AIC of $-3044.969$.
 However, we would witness the problem of poor fitting.
 
-![ARIMA attempt](arima_2.png){width="\\textwidth"}
+![ARIMA attempt](/images/EU_ETS_1/arima_2.png){width="\\textwidth"}
 
-![Fitted Return](prediction_ARIMA_basic.png){width="\\textwidth"}
+![Fitted Return](/images/EU_ETS_1/prediction_ARIMA_basic.png){width="\\textwidth"}
 
-![Fitted Return](prediction_return_ARIMA_basic.png){width="\\textwidth"}
+![Fitted Return](/images/EU_ETS_1/prediction_return_ARIMA_basic.png){width="\\textwidth"}
 
 ### Seasonal ARIMA model
 
@@ -230,9 +227,9 @@ of a correlated lag of $n = 24$. This triggers us to try the SARIMA
 model with the $s = 24$. This model achieves an **AIC** of $-3213.991$,
 much better than our first attempt.
 
-![SARIMA attempt](SARIMA.png){width="\\textwidth"}
+![SARIMA attempt](/images/EU_ETS_1/SARIMA.png){width="\\textwidth"}
 
-![Diagnosis of the SARIMA model](sarima_statistics.png){#fig:my_label
+![Diagnosis of the SARIMA model](/images/EU_ETS_1/sarima_statistics.png){#fig:my_label
 width="\\textwidth"}
 
 Heteroskedasticity Problem
@@ -247,13 +244,13 @@ witness.
 
 The general approach is to apply the AR-GARCH model. This is trivial.
 
-![AR-GARCH model](AR-GARCH.png){#fig:my_label width="\\textwidth"}
+![AR-GARCH model](/images/EU_ETS_1/AR-GARCH.png){#fig:my_label width="\\textwidth"}
 
 Note that, in Python we don't have ARMA - GARCH model. We select the
 AR(3) since its AIC is very close to ARMA(3,0,1). We achieve an AIC to
 $-3252.53$.
 
-![Residuals of the new AR-GARCH Model](AR_GARCH_resid.png){#fig:my_label
+![Residuals of the new AR-GARCH Model](/images/EU_ETS_1/AR_GARCH_resid.png){#fig:my_label
 width="60%"}
 
 ### Piecewise ARIMA attempt
@@ -263,11 +260,11 @@ first period. It seems the general figure is naturally split into three
 stages, so is our Volume. Our idea is to slice the model into Piecewise
 models.
 
-![Third period](first.png){width="\\textwidth"}
+![Third period](/images/EU_ETS_1/first.png){width="\\textwidth"}
 
-![Third period](mid.png){width="\\textwidth"}
+![Third period](/images/EU_ETS_1/mid.png){width="\\textwidth"}
 
-![Third period](final.png){width="\\textwidth"}
+![Third period](/images/EU_ETS_1/final.png){width="\\textwidth"}
 
 ### Formulate the seasonality by periodic function
 
@@ -287,14 +284,14 @@ to $-3235.331$. In addition, we can witness the Weekday seasonality is
 significant.
 
 ![ARMA model with exog regressor as periodic
-function](ARMA_period.png){#fig:my_label width="\\textwidth"}
+function](/images/EU_ETS_1/ARMA_period.png){#fig:my_label width="\\textwidth"}
 
 By applying a piecewise simulation, and delete the non-significant
 regressor, we reached the final approximation.
 
-![Second period of ARMA with exog model](period_11.png){width="6cm"}
+![Second period of ARMA with exog model](/images/EU_ETS_1/period_11.png){width="6cm"}
 
-![Second period of ARMA with exog model](period_1.png){width="6cm"}
+![Second period of ARMA with exog model](/images/EU_ETS_1/period_1.png){width="6cm"}
 
 Out-of-sample Precision - Stochastic Control
 --------------------------------------------
@@ -327,9 +324,9 @@ Then, the demand process $$\begin{aligned}
 function with the price of Natural Gas and Coal. The parameters of the
 Cox Process is obtained by calibrating the volume.
 
-![Simulated allowance price](simul.png){width="6cm"}
+![Simulated allowance price](/images/EU_ETS_1/simul.png){width="6cm"}
 
-![Simulated allowance price](stochastic_modelling.png){width="6cm"}
+![Simulated allowance price](/images/EU_ETS_1/stochastic_modelling.png){width="6cm"}
 
 However, the different time frame decrease the precision.
 
