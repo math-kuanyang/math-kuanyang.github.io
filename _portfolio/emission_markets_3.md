@@ -1,3 +1,10 @@
+---
+title: "Analysis towards the EU ETS markets and related commodities, Coding and Simulation Part: Pricing and Prediction based on equilibrium Fuel Switching Price"
+excerpt: "This work is inspired by the work of Rene Carmona et al, *SIAM J. Control Optim.*, Vol. 48, No. 4, pp. 2168-2190. We tried to simplify the framework and fit it to the real trading scenario. The codes are efficient and results match the mechanism in reality."
+collection: portfolio
+---
+
+
 ```python
 import numpy as np
 import pandas as pd
@@ -181,7 +188,7 @@ plt.plot(a_l[:-1])
 
 
     
-![png](output_10_1.png)
+![png](/images/EU_ETS_3/output_10_1.png)
     
 
 
@@ -202,7 +209,7 @@ plt.plot(return_a_l)
 
 
     
-![png](output_11_1.png)
+![png](/images/EU_ETS_3/output_11_1.png)
     
 
 
@@ -216,7 +223,7 @@ for i in range(len(agents)):
 
 
     
-![png](output_13_0.png)
+![png](/images/EU_ETS_3/output_13_0.png)
     
 
 
@@ -266,3 +273,6 @@ Some points to be Mentioned:
 The model could be better improved and more close to reality if we:
 1. Fine tune the generated Fuel Switching Process
 2. The strategy has to have time gap with the Fuel Switching Process. And we have to be aware it may not fully switch to another fuel, but could be x% for gas and 1-x% for coal (non-linear feature).
+
+# Codes
+Codes are availble to download from my repository.
