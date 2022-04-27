@@ -26,7 +26,7 @@ My undergraduate education supports me with solid foundation and equips me with 
 ### Awards & Scholarship
 1. [Chun-Tsung Scholar](https://junzheng.sjtu.edu.cn/scholar/1418)
 2. [National Scholarship](http://www.moe.gov.cn/jyb_xxgk/s5743/s5744/A05/202012/t20201217_506100.html)
-3. [National Second Prize in Contemporary Undergraduate Mathemtical Contest in Modelling](http://www.mcm.edu.cn/html_cn/node/15767d638d52e1d38c64ea910de792d1.html)
+3. [National Second Prize in Contemporary Undergraduate Mathemtical Contest in Modelling](http://www.mcm.edu.cn/html_cn/node/15767d638d52e1d38c64ea910de792d1.html), [submitted paper in Chinese](/files/CUMCM.pdf)
 4. China Scholarship Council Excellent Undergraduate Study Abroad Scholarship, MOE (Value: CNY 80,000 = GBP 10,000)
 5. China-Top Notch Undergraduate Training Program - Study Abroad Scholarship, Lanzhou University (Value: CNY 120,000 = GBP 15,000)
 
