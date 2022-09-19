@@ -35,9 +35,11 @@ I code based on C++, KDB/Q, Python.
 
 ### [Conference Presentations](/talks/)
 
-### [Projects](/projects/)
-Please visit the Project page.
-
+### [Industrial Collaborations](/projects/)
+1. [Correlation Analysis for Energy Futures Market](/portfolio/emission_markets_2/). This work starts from basic non-arbitrage theory, but further compromises ideas from game theory. [Background](/portfolio/emission_markets_1/) [Scripts](/portfolio/emission_markets_3/)
+2. [Stochastic Modelling for Crypto Market, Cox Process](/portfolio/BTC_prediction/). This framework is inspired by the current poor performance of StatsML model. We use a Cox model and this could be easily extended to a Market Making Strategy through control theory.
+3. [Signature Method](/portfolio/signature/) This is a variant of StatsML method. It uses signature as a feature for prediction. This achieves better efficiency and precision under several occasions.
+Further on projects page. Some projects / details are confidential and cannot be displayed.
 
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=-0m5H0yFZZ6l-AOmOBX7KWj0kEM2mYkZrczUAuYkWeY&cl=ffffff&w=a"></script>
