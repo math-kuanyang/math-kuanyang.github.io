@@ -8,13 +8,13 @@ redirect_from:
 ---
 
 ### Biography
-I am Kuan, Postgraduate Student in Mathematics and Computational Finance in University of Oxford. I have received a Bachelor’s degree with Honors in Mathematics from Cuiying Honors College, Lanzhou University.
+I am Kuan, Postgraduate Student in Mathematics and Computational Finance in University of Oxford. I have received a Bachelor’s degree with Honors in Mathematics from Cuiying Honors College, Lanzhou University. Currently, I am a Quant Research Intern on Global Systematic Trading Desk at [Schonfeld](https://www.schonfeld.com), and my main coverage are rates and commodities.
 
-My current attempt is mathematical modelling for dynamical systems based on stochastic and PDE methods. 
-With stochastic methods, I have worked on theoretical part of device physics. I simulated the [migration of particles based on drift-diffusion models](/publications/), based on which we revealed the mechanism of the resistive switching behaviour in selected devices. For [computational finance](/portfolio/signature/), I am working on prediction and analysis of random behavior in stock market through stochastic methods, such as signature method and statistical learning. This has been supported and collaborated with TaiLong Bank for developping trading strategy for bonds. 
-The [spectral theory project](portfolio/portfolio-1/) is an experience in the area of PDE and dynamical systems. It casts me a straightforward angle to understand dynamics and systems by characteristics such as eigenvalues. It is also a powerful tool to formulate and compute complicated systems with irregular boundary and conditions.
+My research interests are stochastic control and optimization. I also have solid basis in stochastic process, dynamical systems (PDE), probability and calculus.
 
-My undergraduate education supports me with solid foundation and equips me with clear mathematical logic. I am grateful to many professors that have ever supported me. Not only knowledge, but they give me enthusiasm to explore mathematically. 
+For industry, I have worked in assets including rates and commodities futures and crypto. I am particularly interested in market making and statistical arbitrage area. Strategies I am curious about including delta netural and trend following.
+
+I code based on C++, KDB/Q, Python.
 
 ### Grants
 1. [Hui-Chun Chin and Tsung-Dao Lee Chinese Undergraduate Research Endowment](https://en.wikipedia.org/wiki/Tsung-Dao_Lee#Educational_activities), Study on stochastic and machine-learning modelling for application in physics, (PI, No. LZU-JZHJJ2239, Value: CNY 35,000 = GBP 4,000)
@@ -36,7 +36,7 @@ My undergraduate education supports me with solid foundation and equips me with 
 ### [Conference Presentations](/talks/)
 
 ### [Projects](/projects/)
-Please visit the Project page. Currently, I would like to highlight a very interesting [stochastic modelling for cryptocurrency](/portfolio/BTC_prediction/). In addition to machine learning methods, we are hanging back to the fundamentals for price dynamics.
+Please visit the Project page.
 
 
 
