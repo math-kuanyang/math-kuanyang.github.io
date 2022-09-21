@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ### Biography
-I am Kuan, Postgraduate Student in Mathematics and Computational Finance in University of Oxford. I have received a Bachelor’s degree with Honors in Mathematics from Cuiying Honors College, Lanzhou University. Currently, I am a Quant Research Intern on Global Systematic Trading Desk at [Schonfeld](https://www.schonfeld.com), and my main coverage are rates and commodities.
+I am Kuan, Postgraduate Student in Mathematics and Computational Finance in University of Oxford. I have received a Bachelor’s degree with Honors in Mathematics from Cuiying Honors College, Lanzhou University. Currently, I am a Quant Research Intern on Global Systematic Trading Desk at [Schonfeld](https://www.schonfeld.com), and my main coverages are rates and commodities.
 
 My research interests are stochastic control and optimization. I also have solid basis in stochastic process, dynamical systems (PDE), probability and calculus.
 
