@@ -14,7 +14,7 @@ My research interests are stochastic control and optimization. I also have solid
 
 For industry, I have worked in assets including rates and commodities futures and crypto. I am particularly interested in market making and statistical arbitrage area. Strategies I am curious about including delta netural and trend following.
 
-I code based on C++, KDB/Q, Python.
+I code in C++, KDB/Q, Python. I have experience with Linux/UNIX, LaTeX, Markdown, HTML.
 
 ### Grants
 1. [Hui-Chun Chin and Tsung-Dao Lee Chinese Undergraduate Research Endowment](https://en.wikipedia.org/wiki/Tsung-Dao_Lee#Educational_activities), Study on stochastic and machine-learning modelling for application in physics, (PI, No. LZU-JZHJJ2239, Value: CNY 35,000 = GBP 4,000)
