@@ -12,7 +12,7 @@ I am Kuan, Postgraduate Student in Mathematical and Computational Finance in Uni
 
 My research interests are stochastic control and optimization. I also have solid basis in stochastic process, dynamical systems (PDE), probability and calculus.
 
-For industry, I have worked in assets including rates and commodities futures and crypto. I am particularly interested in market making and statistical arbitrage area. Strategies I am curious about including delta netural and trend following.
+For industry, I have worked in assets including rates and commodities futures and crypto. I am particularly interested in market making and statistical arbitrage area.
 
 I code in C++, KDB/Q, Python. I have experience with Linux/UNIX, LaTeX, Markdown, HTML.
 
