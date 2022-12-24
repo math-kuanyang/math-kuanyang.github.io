@@ -8,11 +8,11 @@ redirect_from:
 ---
 
 ### Biography
-I am Kuan, Postgraduate Student in Mathematical and Computational Finance in University of Oxford. I have received a Bachelor’s degree with Honors in Mathematics from Cuiying Honors College, Lanzhou University. Currently, I am a Quant Research Intern on Global Systematic Trading Desk at [Schonfeld](https://www.schonfeld.com), and my main coverages are rates and commodities.
+I am Kuan, Junior Quantitative Trader at [DV Trading LLC](https://www.dvtrading.co). I recieved MSc degree in Mathematical and Computational Finance from University of Oxford and also BSc in Mathematics from Lanzhou University. I've been a Quant Research Intern on Global Systematic Trading Desk at [Schonfeld](https://www.schonfeld.com).
 
 My research interests are stochastic control and optimization. I also have solid basis in stochastic process, dynamical systems (PDE), probability and calculus.
 
-For industry, I have worked in assets including rates and commodities futures and crypto. I am particularly interested in market making and statistical arbitrage area.
+For industry, I have worked in assets including commodities and rates futures and crypto. I am particularly interested in market making and statistical arbitrage area.
 
 I code in C++, KDB/Q, Python. I have experience with Linux/UNIX, LaTeX, Markdown, HTML.
 
