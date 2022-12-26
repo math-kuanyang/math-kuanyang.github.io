@@ -17,7 +17,8 @@ Education
 
 Experience
 ======
-* Summer Quant Researcher Intern, Rates & Commodities Coverage, Global Systematic Trading Desk, Schonfeld Strategic Advisors, 2022.6 - 2022.9
+* Summer Quant Researcher Intern, Global Systematic Trading Desk, Schonfeld Strategic Advisors, 2022.6 - 2022.9
+* Junior Quantitative Trader, DV Trading LLC, 2022.12 - 
 
 
 
