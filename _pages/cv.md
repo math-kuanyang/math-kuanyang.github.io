@@ -17,8 +17,8 @@ Education
 
 Experience
 ======
-* 2022.12 - , Junior Quantitative Trader, Commodities Market Making, DV Trading LLC | London, U.K.
-* 2022.6 - 2022.9, Quant Researcher Intern, Global Systematic Trading, Schonfeld Strategic Advisors | Central, Hong Kong S.A.R.
+* 2022.12 - , Junior Quantitative Trader, Commodities Market Making, DV Trading LLC
+* 2022.6 - 2022.9, Quant Researcher Intern, Global Systematic Trading, Schonfeld Strategic Advisors
   
 
 
