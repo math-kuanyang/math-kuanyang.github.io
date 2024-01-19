@@ -6,15 +6,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
+## Intro
 
-### Biography
-I am Kuan, Junior Quantitative Trader at [DV Trading LLC](https://www.dvtrading.co). Prior to that, I was a Quant Research Intern on Global Systematic Trading Desk at [Schonfeld](https://www.schonfeld.com). I have MSc degree in Mathematical and Computational Finance from University of Oxford and BSc in Mathematics from Lanzhou University.
+Kuan is currently Junior Quantitative Trader at [DV Trading LLC](https://www.dvtrading.co), running market making strategies on energy commodities. Prior to that, he was a Quant Research Intern on Global Systematic Trading Desk at [Schonfeld](https://www.schonfeld.com), with focus on interest rate derivatives. 
 
-My research interests are stochastic control and optimization. I also have solid basis in stochastic process, dynamical systems (PDE), probability and calculus.
+Kuan received MSc degree in Mathematical and Computational Finance from University of Oxford and BSc in Mathematics from Lanzhou University. He was brought up in [Wujin, China](https://en.wikipedia.org/wiki/Wujin,_Changzhou).
 
-For industry, I have worked in delta one products including commodities, rates and crypto. I am particularly interested in market making and statistical arbitrage area.
-
-I code in C++, KDB/Q, Python. I have experience with Linux/UNIX, LaTeX, Markdown, HTML.
+Kuan has interests in stochastic control and optimization with solid basis in stochastic process, dynamical systems (PDE), probability and calculus. He is coding in C++, KDB/Q, Python. He's also familiar with Linux/UNIX, LaTeX, Markdown, HTML.
 
 ### Grants
 1. [Hui-Chun Chin and Tsung-Dao Lee Chinese Undergraduate Research Endowment](https://en.wikipedia.org/wiki/Tsung-Dao_Lee#Educational_activities), Study on stochastic and machine-learning modelling for application in physics, (PI, No. LZU-JZHJJ2239, Value: CNY 35,000 = GBP 4,000)
