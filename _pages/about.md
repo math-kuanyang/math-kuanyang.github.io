@@ -8,7 +8,7 @@ redirect_from:
 ---
 ## Intro
 
-Kuan is currently Junior Quantitative Trader at [DV Trading LLC](https://www.dvtrading.co), running market making strategies on energy commodities. Prior to that, he was a Quant Research Intern on Global Systematic Trading Desk at [Schonfeld](https://www.schonfeld.com), with focus on interest rate derivatives. 
+Kuan is currently Quantitative Trader at [DV Trading LLC](https://www.dvtrading.co), running market making strategies on energy commodities. Prior to that, he was a Quant Research Intern on Global Systematic Trading Desk at [Schonfeld](https://www.schonfeld.com), with focus on interest rate derivatives. 
 
 Kuan received MSc degree in Mathematical and Computational Finance from University of Oxford and BSc in Mathematics from Lanzhou University. He was brought up in [Wujin, China](https://en.wikipedia.org/wiki/Wujin,_Changzhou).
 
