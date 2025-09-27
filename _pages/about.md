@@ -8,11 +8,11 @@ redirect_from:
 ---
 ## Intro
 
-Kuan is currently Quantitative Trader at [DV Trading LLC](https://www.dvtrading.co), running market making strategies on energy commodities. Prior to that, he was a Quant Research Intern on Global Systematic Trading Desk at [Schonfeld](https://www.schonfeld.com), with focus on interest rate derivatives. 
+Kuan "Ken" Yang is currently Quantitative Trader at [DV Trading LLC](https://www.dvtrading.co), running market making strategies on energy commodities. Prior to that, he was a Quant Research Intern on Global Systematic Trading Desk at [Schonfeld](https://www.schonfeld.com), with focus on interest rate derivatives. 
 
-Kuan received MSc degree in Mathematical and Computational Finance from University of Oxford and BSc in Mathematics from Lanzhou University. He was brought up in [Wujin, China](https://en.wikipedia.org/wiki/Wujin,_Changzhou).
+Ken received MSc degree in Mathematical and Computational Finance from University of Oxford and BSc in Mathematics from Lanzhou University. He was brought up in [Wujin, China](https://en.wikipedia.org/wiki/Wujin,_Changzhou).
 
-Kuan has interests in stochastic control and optimization. He has solid basis in stochastic process, dynamical systems (PDE), probability and calculus. He is coding in C++, KDB/Q, Python. He's also familiar with Linux/UNIX, LaTeX, Markdown, HTML.
+Ken has interests in stochastic control and optimization. He has solid basis in stochastic process, dynamical systems (PDE), probability and calculus. He is coding in C++, KDB/Q, Python. He's also familiar with Linux/UNIX, LaTeX, Markdown, HTML.
 
 ### Grants
 1. [Hui-Chun Chin and Tsung-Dao Lee Chinese Undergraduate Research Endowment](https://en.wikipedia.org/wiki/Tsung-Dao_Lee#Educational_activities), Study on stochastic and machine-learning modelling for application in physics, (PI, No. LZU-JZHJJ2239, Value: CNY 35,000 = GBP 4,000)
